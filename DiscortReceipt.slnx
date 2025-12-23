@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DiscortReceipt.App/DiscortReceipt.App.csproj" />
+  <Project Path="DiscortReceipt.Domain/DiscortReceipt.Domain.csproj" />
+  <Project Path="DiscortReceipt.Infrastructure/DiscortReceipt.Infrastructure.csproj" />
+  <Project Path="DiscortReceipt.Presentation/DiscortReceipt.Presentation.csproj" />
+  <Project Path="DiscortReceipt.Tests/DiscortReceipt.Tests.csproj" />
+</Solution>
